@@ -22,3 +22,4 @@ export {default as ProductTabs} from './components/ProductTabs';
 
 export {default as CardMenu} from './components/CardMenu';
 export {default as MegaMenu} from './components/MegaMenu';
+export {clickOutside} from './helpers/event-helper';
