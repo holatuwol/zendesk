@@ -19,7 +19,7 @@ export {
 export {default as debounce} from 'lodash.debounce';
 export {default as throttle} from 'lodash.throttle';
 
-export {MegaMenu} from 'liferay-help-center-megamenu';
+export {clickOutside, MegaMenu} from 'liferay-help-center-megamenu';
 
 export {default as CallToAction} from './components/CallToAction';
 export {default as DocSideNav} from './components/DocSideNav';
